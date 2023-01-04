@@ -29,3 +29,18 @@ home
 
 
 login
+
+
+-frontend template
+-virtualenv
+    -create
+    -activate
+    -pip install django
+    -deactivate
+    
+    -upload project on github
+
+    -url : path
+    -view : logic
+    -models : db
+    -tmplate : frotend
